@@ -1,6 +1,6 @@
 # Anouar Leon
 
-**Backend Software Engineer** · Java · Spring Boot · AWS · Microservices
+**Backend Software Engineer** · Java · Spring Boot · Node.js · AWS · Docker · Microservices
 
 I build backend systems that hold up under real conditions: event-driven pipelines, microservices, and the data layers behind them. I believe in results, so here are mine.
 
@@ -8,7 +8,7 @@ I build backend systems that hold up under real conditions: event-driven pipelin
 
 - 📄 **Published at IEEE ICECET 2026** as co-author of a paper on AI-driven remote patient monitoring ([DOI](https://doi.org/10.1109/ICECET65726.2026.11632375))
 - ☁️ **Serverless IoT backend on AWS** that ingests live sensor data over MQTT and runs a containerized ML model with **92.78% accuracy**
-- 🛒 **Order Service for a 6-service e-commerce platform**, built in a 15-person team, with the "two buyers, one item left" race condition solved
+- 🛒 **Owned the entire order lifecycle on a 6-service e-commerce platform** in a 15-person team: built it, tested it end to end, and fixed bugs across multiple services to make it work
 - 🗄️ **A database engine written from scratch in Java**, with B+ tree indexing
 
 ## Selected projects
