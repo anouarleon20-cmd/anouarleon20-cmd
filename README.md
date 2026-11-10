@@ -1,6 +1,6 @@
 # Anouar Leon
 
-**Backend Software Engineer** · Java · Spring Boot · Node.js · AWS · Docker · Microservices
+**Backend Software Engineer** · Java · Spring Boot · JavaScript · Node.js · Express.js · AWS · Docker · System Design
 
 I build backend systems that hold up under real conditions: event-driven pipelines, microservices, and the data layers behind them. I believe in results, so here are mine.
 
