@@ -8,7 +8,7 @@ I build backend systems that hold up under real conditions: event-driven pipelin
 
 - 📄 **Published at IEEE ICECET 2026** as co-author of a paper on AI-driven remote patient monitoring ([DOI](https://doi.org/10.1109/ICECET65726.2026.11632375))
 - ☁️ **Serverless IoT backend on AWS** that ingests live sensor data over MQTT and runs a containerized ML model with **92.78% accuracy**
-- 🛒 **Owned the entire order lifecycle on a 6-service e-commerce platform** in a 15-person team: built it, tested it end to end, and fixed bugs across multiple services to make it work
+- 🛒 **Owned the core of a 6-service e-commerce platform**: every order, payment, shipment, and stock change starts or ends in the order service I built, tested end to end, and debugged across the other teams' services
 - 🗄️ **A database engine written from scratch in Java**, with B+ tree indexing
 
 ## Selected projects
